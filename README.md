@@ -1,4 +1,4 @@
-**This Not A FiveM PluGin**
+**This Not A FiveM Script**
 
 **这个不是FiveM 的插件**
 
